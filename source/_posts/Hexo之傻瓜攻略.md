@@ -12,7 +12,7 @@ title: Hexo博客流程
 	- `npm install -g hexo` 安装cli
 	- `hexo init` 初始化hexo
 	- `npm install` 安装依赖
-	- 输入命令：`git clone https://github.com/iissnan/hexo-theme-nextthemes/next` （next为主题名字），来获得更多主题
+	- 输入命令：`git clone https://github.com/iissnan/hexo-theme-next themes/next` （next为主题名字），来获得更多主题
 	- 更改_config.yml文件更换主题，另外注意以下配置项
 
             theme: next
