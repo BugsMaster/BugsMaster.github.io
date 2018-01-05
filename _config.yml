@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: I am BugsMaster
-subtitle: Hello word
+title: 漆黑小T的三次元空间
+subtitle: Hello,第9527位访客
 description:
-author: Klax
-language: en
+author: 漆黑小T
+language: zh-Hans
 timezone: Asia/Beijing
 
 # URL
@@ -61,8 +61,8 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
+##time_format:
 date_format: YYYY-MM-DD
-time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
