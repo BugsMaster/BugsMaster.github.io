@@ -79,4 +79,5 @@ theme: next
 deploy:
   type: git
   repository: https://github.com/BugsMaster/BugsMaster.github.io.git
+  #repository: git@github.com:BugsMaster/BugsMaster.github.io.git
   branch: master
